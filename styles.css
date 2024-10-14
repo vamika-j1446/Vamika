@@ -8,7 +8,7 @@ body{
     }
     .seconDiv{
         background-color: chocolate;
-        align-items: center;
+        /* align-items: center; */
         justify-content: center;
         display: flex;
     }
