@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(184, 228, 199);
+    color: #0b0b0b;
+    h1{
+        color:black ;
+        font-style: italic;
+        text-align: center;
+    }
+    .seconDiv{
+        background-color: chocolate;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+    }
+}
+button{
+    margin: 5px; 
+    padding: 5px 10px;
+    cursor: pointer;
+    border: 3px dotted black;
+}
+button:hover{
+    background-color: darkgrey;
+    color: black;
+}
